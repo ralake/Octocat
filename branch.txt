@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a copy of the master code that separate commits can be made to, then merged or rebased back to the master or removed.
