@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+Upstream remotes are used to pull changes from the original repository to your forked repository. Forked repositories are used for making changes or fixing bugs in the code without working on the master code. If you fix the bug or make a valuale change you can submit a pull request to ask to have your amended code merged to the master.
