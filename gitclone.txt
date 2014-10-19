@@ -1,2 +1,1 @@
-Explain what git clone does, in your own words.
-
+clone someone else's repository from url. Does a few commands in a row - creates a directory, initialises, creats a remote, pulls code and changes back to parent directory.
