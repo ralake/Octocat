@@ -1,1 +1,1 @@
-clone someone else's repository from url. Does a few commands in a row - creates a directory, initialises, creats a remote, pulls code and changes back to parent directory.
+take a complete copy of a repository. Does a few things in a row - creates a directory, initialises, create a remote, pulls code from a single branch.
